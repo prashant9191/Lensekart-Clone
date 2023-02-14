@@ -2,6 +2,10 @@
 
 This is a construct week project of cloning https://www.lenskart.com/ that is built in 5 days .
 
+# Netlify Deployed link
+
+https://profound-tartufo-a8c7bd.netlify.app/
+
 # AIM-
 
 To provide designer glasses at lower cost.
