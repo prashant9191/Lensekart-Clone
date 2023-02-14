@@ -2,19 +2,19 @@
 
 This is a construct week project of cloning https://www.lenskart.com/ that is built in 5 days .
 
-#AIM-
+# AIM-
 
 To provide designer glasses at lower cost.
 
-#Duration -
+# Duration -
 
 5 Days 
 
-#AIM-
+# AIM-
 
 To provide designer glasses at lower cost.
 
-#Tech Stacks Used- 
+# Tech Stacks Used- 
 
 HTML,
 
@@ -22,7 +22,7 @@ CSS,
 
 Advance Javascript
 
-#Key Features:
+# Key Features:
 
 1.Landing Page with Mega Navbar, Footer, Sliders
 
