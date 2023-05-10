@@ -4,7 +4,7 @@ This is a construct week project of cloning https://www.lenskart.com/ that is bu
 
 # Netlify Deployed link
 
-https://eyecare.vercel.app/
+[live](https://lensekart-clone.vercel.app/)
 
 # AIM-
 
